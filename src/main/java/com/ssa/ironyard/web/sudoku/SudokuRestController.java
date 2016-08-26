@@ -8,6 +8,7 @@ import java.util.List;
 import java.util.Map;
 
 import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpSession;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -50,25 +51,34 @@ public class SudokuRestController {
             return ResponseEntity.ok().body(easyMap);
 
         }
+        Map<String, String> easyMap = new HashMap<>();
 
-        return (ResponseEntity<Map<String, String>>) ResponseEntity.status(HttpStatus.NOT_FOUND);
+        return ResponseEntity.status(HttpStatus.NOT_FOUND).body(easyMap);
 
     }
 
     @RequestMapping("/sudoku/{gameID}")
     @ResponseBody
-    public ResponseEntity<String> gameState(HttpServletRequest request, @PathVariable String gameID) {
+    public ResponseEntity<Map<String, List<String>>> gameState(HttpSession put, HttpServletRequest request,
+            @PathVariable String gameID) {
         ResponseEntity.status(HttpStatus.CREATED);
-        String response = "Incorrect values at ";
+        Map<String, List<String>> easyMap = new HashMap<>();
+
         String current = request.getParameter("solution");
         if (!Strings.isEmpty(request.getParameter("solution"))) {
-            // response = response.concat("" +
-            // games.get(games.get(0)).checkBoard(current));
 
-            if (games.get(0).checkBoard(current).size() == 0)
-                return ResponseEntity.ok().body("So far so good");
+            games.get(0).solveBoard();
+            if ((games.get(0)).checkBoard(current).size() == 0) {
+                easyMap.put("errors", games.get(0).checkBoard(current));
+                easyMap.put("game", Arrays.asList(gameID));
+                return ResponseEntity.ok().body(easyMap);
+            }
+            easyMap.put("errors", games.get(0).checkBoard(current));
+            easyMap.put("game", Arrays.asList(gameID));
+            return ResponseEntity.ok().body(easyMap);
+
         }
-        return (ResponseEntity<String>) ResponseEntity.status(HttpStatus.NOT_FOUND);
+        return ResponseEntity.status(HttpStatus.NOT_FOUND).body(easyMap);
     }
 
 }

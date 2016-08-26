@@ -27,7 +27,7 @@ public class Board {
     public String add(int position, String value){
         char [] temp = this.getIntialState().toCharArray();
         temp[position]= value.charAt(0);
-        return this.setIntialState(temp.toString());
+        return this.setIntialState(String.valueOf(temp));
     }
 
     public String solveBoard() {
@@ -43,13 +43,13 @@ public class Board {
         return this.setSolvedState(new SudokuSolver(board).solveBoard());
     }
 
-    public List<Integer> checkBoard(String check) {
-        List<Integer> temp = new ArrayList<>();
+    public List<String> checkBoard(String check) {
+        List<String> temp = new ArrayList<>();
         for (int i = 0; i < 81; i++)
-            if (!(check.charAt(i) == 0))
+            if (!(check.charAt(i) == '0'))
                 if (!(check.charAt(i) == this.solvedState.charAt(i)))
-                    temp.add(i);
-
+                    temp.add(String.valueOf(i));
+        
         return temp;
 
     }
