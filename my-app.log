@@ -860,3 +860,122 @@
 13:32:56.783} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6332 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
 13:32:56.907} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
 13:32:56.907} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:35:36.420} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 5808 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+13:35:36.420} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:35:36.420} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:35:37.777} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\easy-1.txt, exists?true
+13:36:30.794} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6784 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+13:36:30.794} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:36:30.794} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:36:32.120} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\easy-1.txt, exists?true
+13:36:32.136} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - Got property file file:/C:/Users/admin/Documents/Java%20Projects/Maven/my-app/target/classes/easy-1.txt
+13:38:26.400} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 2992 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+13:38:26.400} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:38:26.400} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:38:27.712} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\easy-1.txt, exists?true
+13:38:27.728} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - Got property file file:/C:/Users/admin/Documents/Java%20Projects/Maven/my-app/target/classes/easy-1.txt
+13:40:31.507} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 5580 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+13:40:31.507} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:40:31.507} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:40:32.817} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\easy-1.txt, exists?true
+13:40:32.817} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - Got property file file:/C:/Users/admin/Documents/Java%20Projects/Maven/my-app/target/classes/easy-1.txt
+13:40:32.833} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\easy-1.txt, exists?true
+13:40:33.332} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.324 seconds (JVM running for 5.548)
+13:43:01.015} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 2904 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+13:43:01.015} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:43:01.015} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:43:02.325} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\easy-1.txt, exists?true
+13:43:02.341} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - Got property file file:/C:/Users/admin/Documents/Java%20Projects/Maven/my-app/target/classes/easy-1.txt
+13:43:02.356} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\easy-1.txt, exists?true
+13:43:02.824} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.231 seconds (JVM running for 5.526)
+13:44:12.881} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 4460 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+13:44:12.881} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:44:12.881} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:44:14.379} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\easy-1.txt, exists?true
+13:44:14.394} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - Got property file file:/C:/Users/admin/Documents/Java%20Projects/Maven/my-app/target/classes/easy-1.txt
+13:44:14.394} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\easy-1.txt, exists?true
+13:44:14.878} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.325 seconds (JVM running for 5.503)
+13:47:11.463} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 5632 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+13:47:11.479} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:47:11.479} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:47:12.914} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\easy-1.txt, exists?true
+13:47:12.914} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - Got property file file:/C:/Users/admin/Documents/Java%20Projects/Maven/my-app/target/classes/easy-1.txt
+13:47:12.930} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\easy-1.txt, exists?true
+13:47:13.491} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.34 seconds (JVM running for 5.555)
+13:53:23.819} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 940 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+13:53:23.819} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:53:23.819} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:53:25.379} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\easy-1.txt, exists?true
+13:53:25.394} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - Got property file file:/C:/Users/admin/Documents/Java%20Projects/Maven/my-app/target/classes/easy-1.txt
+13:53:25.410} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\easy-1.txt, exists?true
+13:53:25.904} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.429 seconds (JVM running for 5.74)
+13:59:16.282} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 1332 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+13:59:16.282} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:59:16.282} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:59:17.779} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\easy-1.txt, exists?true
+13:59:17.779} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - Got property file file:/C:/Users/admin/Documents/Java%20Projects/Maven/my-app/target/classes/easy-1.txt
+13:59:17.795} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\easy-1.txt, exists?true
+13:59:18.325} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.371 seconds (JVM running for 5.624)
+14:03:19.826} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 5068 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:03:19.826} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:03:19.826} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:03:21.464} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\easy-1.txt, exists?true
+14:03:21.480} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - Got property file file:/C:/Users/admin/Documents/Java%20Projects/Maven/my-app/target/classes/easy-1.txt
+14:03:21.496} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\easy-1.txt, exists?true
+14:03:21.964} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.531 seconds (JVM running for 5.923)
+14:06:39.148} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 5336 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:06:39.148} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:06:39.148} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:06:40.412} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\easy-1.txt, exists?true
+14:06:40.427} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - Got property file file:/C:/Users/admin/Documents/Java%20Projects/Maven/my-app/target/classes/easy-1.txt
+14:06:40.443} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\easy-1.txt, exists?true
+14:06:40.911} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.184 seconds (JVM running for 5.543)
+14:09:05.060} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 4704 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:09:05.200} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:09:05.200} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:09:06.609} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\easy-1.txt, exists?true
+14:09:06.609} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - Got property file file:/C:/Users/admin/Documents/Java%20Projects/Maven/my-app/target/classes/easy-1.txt
+14:09:06.625} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\easy-1.txt, exists?true
+14:09:07.186} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.516 seconds (JVM running for 5.952)
+14:11:09.974} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 7092 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:11:09.975} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:11:09.976} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:11:11.330} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\easy-1.txt, exists?true
+14:11:11.339} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - Got property file file:/C:/Users/admin/Documents/Java%20Projects/Maven/my-app/target/classes/easy-1.txt
+14:11:11.354} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\easy-1.txt, exists?true
+14:11:11.816} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.361 seconds (JVM running for 5.529)
+14:16:18.722} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6104 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:16:18.722} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:16:18.722} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:16:20.257} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\easy-1.txt, exists?true
+14:16:20.267} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - Got property file file:/C:/Users/admin/Documents/Java%20Projects/Maven/my-app/target/classes/easy-1.txt
+14:16:20.277} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\easy-1.txt, exists?true
+14:16:20.757} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.335 seconds (JVM running for 5.544)
+14:17:09.694} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 2592 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:17:09.803} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:17:09.803} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:17:11.192} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\easy-1.txt, exists?true
+14:17:11.207} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - Got property file file:/C:/Users/admin/Documents/Java%20Projects/Maven/my-app/target/classes/easy-1.txt
+14:17:11.223} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\easy-1.txt, exists?true
+14:17:11.722} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.356 seconds (JVM running for 5.676)
+14:19:00.470} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 1048 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:19:00.633} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:19:00.633} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:19:02.093} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\easy-1.txt, exists?true
+14:19:02.104} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - Got property file file:/C:/Users/admin/Documents/Java%20Projects/Maven/my-app/target/classes/easy-1.txt
+14:19:02.119} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\easy-1.txt, exists?true
+14:19:02.606} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.497 seconds (JVM running for 5.539)
+14:20:24.808} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 5980 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:20:24.810} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:20:24.810} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:20:26.188} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\easy-1.txt, exists?true
+14:20:26.198} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - Got property file file:/C:/Users/admin/Documents/Java%20Projects/Maven/my-app/target/classes/easy-1.txt
+14:20:26.221} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\easy-1.txt, exists?true
+14:20:26.688} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.379 seconds (JVM running for 5.519)
+14:22:29.156} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6076 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:22:29.156} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:22:29.156} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:22:30.419} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\easy-1.txt, exists?true
+14:22:30.435} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - Got property file file:/C:/Users/admin/Documents/Java%20Projects/Maven/my-app/target/classes/easy-1.txt
+14:22:30.435} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\easy-1.txt, exists?true
+14:22:30.887} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.152 seconds (JVM running for 5.436)

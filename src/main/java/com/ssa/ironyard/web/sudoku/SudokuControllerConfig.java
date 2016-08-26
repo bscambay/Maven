@@ -12,9 +12,10 @@ import java.util.Map;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
 
 import com.ssa.ironyard.web.WebFileFactory;
-
+@Configuration
 public class SudokuControllerConfig {
     static final Logger LOGGER = LogManager.getLogger(SudokuControllerConfig.class);
 
@@ -32,7 +33,7 @@ public class SudokuControllerConfig {
             reader = Files.newBufferedReader(gameFile.toPath(), Charset.defaultCharset());
 
             String line;
-            int i = 1;
+            int i = 0;
             while (null != (line = reader.readLine())) {
                 games.put(i, new Board(line));
                 i++;

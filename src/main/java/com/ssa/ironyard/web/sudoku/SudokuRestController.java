@@ -3,6 +3,7 @@ package com.ssa.ironyard.web.sudoku;
 import java.net.URISyntaxException;
 import java.nio.charset.Charset;
 import java.util.Arrays;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
@@ -30,34 +31,44 @@ public class SudokuRestController {
     @Qualifier("default-games")
     Map<Integer, Board> games;
 
-  
-    @RequestMapping(produces = "application/json", value ="/sudoku/{difficulty}", method = RequestMethod.GET)
+    @RequestMapping(produces = "application/json", value = "/sudoku/{difficulty}", method = RequestMethod.GET)
     @ResponseBody
-    public ResponseEntity<String> start(@PathVariable String difficulty) throws IllegalArgumentException {
+    public ResponseEntity<Map<String, String>> start(@PathVariable String difficulty) throws IllegalArgumentException {
 
         ResponseEntity.status(HttpStatus.CREATED);
-        
+
         if (difficulty.equals("easy")) {
-            return ResponseEntity.ok().body((games.get(1).getIntialState()));
+            Map<String, String> easyMap = new HashMap<>();
+            easyMap.put("intial", games.get(0).getIntialState());
+            easyMap.put("gameId", "0");
+            return ResponseEntity.ok().body(easyMap);
         }
 
         if (difficulty.equals("medium")) {
-            return ResponseEntity.ok().body(games.get(2).getIntialState());
+            Map<String, String> easyMap = new HashMap<>();
+            easyMap.put("game", games.get(1).getIntialState());
+            return ResponseEntity.ok().body(easyMap);
+
         }
 
-        return (ResponseEntity<String>) ResponseEntity.status(HttpStatus.NOT_FOUND);
+        return (ResponseEntity<Map<String, String>>) ResponseEntity.status(HttpStatus.NOT_FOUND);
 
     }
 
     @RequestMapping("/sudoku/{gameID}")
     @ResponseBody
-    public String gameState(HttpServletRequest request, @PathVariable String gameID) {
+    public ResponseEntity<String> gameState(HttpServletRequest request, @PathVariable String gameID) {
+        ResponseEntity.status(HttpStatus.CREATED);
         String response = "Incorrect values at ";
         String current = request.getParameter("solution");
-        response = response.concat("" + games.get(gameID).checkBoard(current));
-        if (games.get(gameID).checkBoard(current).isEmpty())
-            return "So far so good";
-        return response;
+        if (!Strings.isEmpty(request.getParameter("solution"))) {
+            // response = response.concat("" +
+            // games.get(games.get(0)).checkBoard(current));
+
+            if (games.get(0).checkBoard(current).size() == 0)
+                return ResponseEntity.ok().body("So far so good");
+        }
+        return (ResponseEntity<String>) ResponseEntity.status(HttpStatus.NOT_FOUND);
     }
 
 }
