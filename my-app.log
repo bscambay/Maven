@@ -857,3 +857,6 @@
 16:01:00.069} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
 16:01:01.394} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
 16:01:02.103} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.345 seconds (JVM running for 5.602)
+13:32:56.783} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6332 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+13:32:56.907} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:32:56.907} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default

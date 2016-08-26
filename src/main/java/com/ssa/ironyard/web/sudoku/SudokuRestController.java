@@ -14,8 +14,11 @@ import org.apache.logging.log4j.util.Strings;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Bean;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -27,22 +30,22 @@ public class SudokuRestController {
     @Qualifier("default-games")
     Map<Integer, Board> games;
 
-    @Autowired
-    Board board;
-
-    @RequestMapping("/sudoku/{difficulty}")
+  
+    @RequestMapping(produces = "application/json", value ="/sudoku/{difficulty}", method = RequestMethod.GET)
     @ResponseBody
-    public String start(@PathVariable String difficulty) throws IllegalArgumentException {
+    public ResponseEntity<String> start(@PathVariable String difficulty) throws IllegalArgumentException {
 
+        ResponseEntity.status(HttpStatus.CREATED);
+        
         if (difficulty.equals("easy")) {
-            return games.get(1).getIntialState();
+            return ResponseEntity.ok().body((games.get(1).getIntialState()));
         }
 
         if (difficulty.equals("medium")) {
-            return games.get(2).getIntialState();
+            return ResponseEntity.ok().body(games.get(2).getIntialState());
         }
 
-        return Strings.EMPTY;
+        return (ResponseEntity<String>) ResponseEntity.status(HttpStatus.NOT_FOUND);
 
     }
 

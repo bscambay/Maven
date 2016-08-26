@@ -10,9 +10,13 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class Board {
-    Map<Integer, Box> boxes = new HashMap<>();
+   
     String intialState;
     String solvedState;
+    
+    public Board() {
+        // TODO Auto-generated constructor stub
+    }
 
     public Board(String initialState) {
 
@@ -31,35 +35,8 @@ public class Board {
                 temp = temp.substring(1);
             }
         
-         String[][] tempBoard = board;
-         for (int i = 1; i < 10; i++)
-             for (int j = 1; j < 10; j++) { 
-                 //no numbers exists in same rows & same columns same as (i) & 3x3 square (i) is currently in
-                 if (){
-                     //fill in the number
-                 }
-                     //numbers exists in same rows & same columns same as (i) & 3x3 square (i) is currently in
-            if (){
-              //discard (i) and repick other values (i++)
-            }
-            }
-          }
-          else {
-            while (nx < 9) {
-              Proceed to next row grid(nx++, ny)
-              if (nx equals 9) {
-                reset nx = 1
-                proceed to next column grid(nx,ny++)
-                if (ny equals 9) {
-                  print solution
-                }
-              }
-            }
-          }
-
-        return this.setSolvedState("");
-
-    }
+        return new SudokuSolver(board).solveBoard();
+        }
 
     public List<Integer> checkBoard(String check) {
         List<Integer> temp = new ArrayList<>();
