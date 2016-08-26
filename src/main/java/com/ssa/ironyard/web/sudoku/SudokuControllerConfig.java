@@ -7,7 +7,6 @@ import java.net.URISyntaxException;
 import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
 import org.apache.logging.log4j.LogManager;
@@ -19,40 +18,33 @@ import com.ssa.ironyard.web.WebFileFactory;
 public class SudokuControllerConfig {
     static final Logger LOGGER = LogManager.getLogger(SudokuControllerConfig.class);
 
-    @Bean(name = "default-props")
-    public Map<String, List<Board>> defaults() throws URISyntaxException, IOException
-    {
-        Map<String, List<Board>> allProperties = new HashMap<>();
+    @Bean(name = "default-games")
+    public Map<Integer, Board> defaults() throws URISyntaxException, IOException {
+        Map<Integer, Board> games = new HashMap<>();
 
-        File propertyFile = new WebFileFactory("easy-1.txt").getInstance();
-        
-        LOGGER.debug("Got property file {}", propertyFile.toURI());
+        File gameFile = new WebFileFactory("easy-1.txt").getInstance();
+
+        LOGGER.debug("Got property file {}", gameFile.toURI());
 
         BufferedReader reader = null;
 
-        try
-        {
-            reader = Files.newBufferedReader(propertyFile.toPath(), Charset.defaultCharset());
+        try {
+            reader = Files.newBufferedReader(gameFile.toPath(), Charset.defaultCharset());
 
             String line;
-
-            while (null != (line = reader.readLine()))
-            {
-                //;
-                
-                            }
-        }
-        catch (IOException iex)
-        {
+            int i = 1;
+            while (null != (line = reader.readLine())) {
+                games.put(i, new Board(line));
+                i++;
+            }
+        } catch (IOException iex) {
             System.err.println(iex);
             throw iex;
-        }
-        finally
-        {
+        } finally {
             if (null != reader)
                 reader.close();
         }
-        
-        return allProperties;
-}
+
+        return games;
+    }
 }
