@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+Trace
+Debug
+Info
+Warn
+Error
+Fatal
+ -->
+ 
+ 
+<Configuration status="WARN">
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+        </Console>
+    </Appenders>
+    <Loggers>
+    	<Logger name = "com.ssa.ironyard" level="debug" additivity = "true">
+    	 </Logger>
+    	 <Logger name = "com.ssa.ironyard.web.TrieController" level = "trace" additivity = "true"> 
+    	 </Logger>
+        <Root level="warn">
+            <AppenderRef ref="Console"/>
+        </Root>
+    </Loggers>
+</Configuration>

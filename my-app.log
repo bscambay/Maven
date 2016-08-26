@@ -1,0 +1,859 @@
+09:14:59.324} [main] WARN  com.ssa.ironyard.web.SpringStarter - Will this show up?
+09:14:59.683} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 3492 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+09:14:59.683} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+09:14:59.684} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+09:15:01.534} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.13 seconds (JVM running for 4.355)
+09:35:24.160} [main] WARN  com.ssa.ironyard.web.SpringStarter - Will this show up?
+09:35:24.585} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 4452 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+09:35:24.586} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+09:35:24.586} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+09:35:26.343} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.1 seconds (JVM running for 4.764)
+09:35:46.342} [main] WARN  com.ssa.ironyard.web.SpringStarter - Will this show up?
+09:35:46.688} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 4168 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+09:35:46.689} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+09:35:46.689} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+09:35:48.470} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.045 seconds (JVM running for 4.286)
+09:37:17.116} [main] WARN  com.ssa.ironyard.web.SpringStarter - Will this show up?
+09:37:17.449} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 1272 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+09:37:17.449} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+09:37:17.449} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+09:37:19.199} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.003 seconds (JVM running for 4.27)
+10:03:23.282} [main] WARN  com.ssa.ironyard.web.SpringStarter - Will this show up?
+10:03:23.661} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 4412 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+10:03:23.662} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+10:03:23.662} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+10:03:25.485} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.119 seconds (JVM running for 4.559)
+10:10:38.539} [main] WARN  com.ssa.ironyard.web.SpringStarter - Will this show up?
+10:10:38.917} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 3032 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+10:10:38.917} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+10:10:38.917} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+10:10:40.660} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.036 seconds (JVM running for 4.42)
+10:12:06.924} [main] WARN  com.ssa.ironyard.web.SpringStarter - Will this show up?
+10:12:07.302} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 480 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+10:12:07.302} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+10:12:07.302} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+10:12:09.045} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.027 seconds (JVM running for 4.379)
+10:15:24.115} [main] WARN  com.ssa.ironyard.web.SpringStarter - Will this show up?
+10:15:24.524} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 4384 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+10:15:24.524} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+10:15:24.524} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+10:15:49.572} [main] WARN  com.ssa.ironyard.web.SpringStarter - Will this show up?
+10:15:49.921} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 5388 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+10:15:49.922} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+10:15:49.922} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+10:15:51.674} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.022 seconds (JVM running for 4.347)
+10:30:05.973} [main] WARN  com.ssa.ironyard.web.SpringStarter - Will this show up?
+10:30:06.373} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 6328 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+10:30:06.374} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+10:30:06.374} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+10:30:08.291} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.228 seconds (JVM running for 2.746)
+10:30:25.699} [main] WARN  com.ssa.ironyard.web.SpringStarter - Will this show up?
+10:30:26.051} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 2320 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+10:30:26.052} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+10:30:26.052} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+10:30:27.741} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 1.963 seconds (JVM running for 4.291)
+10:32:28.996} [main] WARN  com.ssa.ironyard.web.SpringStarter - Will this show up?
+10:32:29.348} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 5048 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+10:32:29.348} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+10:32:29.349} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+10:32:31.103} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.028 seconds (JVM running for 4.309)
+10:35:28.081} [main] WARN  com.ssa.ironyard.web.SpringStarter - Zucchini is fatal
+10:35:28.083} [main] WARN  com.ssa.ironyard.web.SpringStarter - Zuchini is fatal
+10:35:28.434} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 3032 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+10:35:28.434} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+10:35:28.434} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+10:35:30.208} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.037 seconds (JVM running for 4.42)
+10:35:34.824} [http-nio-8080-exec-1] WARN  com.ssa.ironyard.web.SpringStarter - Zucchini is fatal
+10:42:46.957} [main] WARN  com.ssa.ironyard.web.SpringStarter - Zucchini is fatal
+10:42:46.958} [main] WARN  com.ssa.ironyard.web.SpringStarter - Zuchini is fatal
+10:42:47.318} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 3296 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+10:42:47.319} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+10:42:47.319} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+10:42:49.069} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.031 seconds (JVM running for 4.372)
+10:42:51.558} [http-nio-8080-exec-1] WARN  com.ssa.ironyard.web.SpringStarter - Zucchini is fatal
+10:59:06.510} [main] WARN  com.ssa.ironyard.web.SpringStarter - Zucchini is fatal
+10:59:06.511} [main] WARN  com.ssa.ironyard.web.SpringStarter - Zuchini is fatal
+10:59:06.895} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 5404 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+10:59:06.895} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+10:59:06.895} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+10:59:08.593} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 1.987 seconds (JVM running for 4.358)
+10:59:16.439} [http-nio-8080-exec-1] WARN  com.ssa.ironyard.web.SpringStarter - Zucchini is fatal
+11:15:59.078} [main] WARN  com.ssa.ironyard.web.SpringStarter - Zucchini is fatal
+11:15:59.079} [main] WARN  com.ssa.ironyard.web.SpringStarter - Zuchini is fatal
+11:15:59.466} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 5444 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+11:15:59.466} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+11:15:59.466} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+11:16:32.099} [main] WARN  com.ssa.ironyard.web.SpringStarter - Zucchini is fatal
+11:16:32.100} [main] WARN  com.ssa.ironyard.web.SpringStarter - Zuchini is fatal
+11:16:32.478} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 732 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+11:16:32.478} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+11:16:32.478} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+11:16:34.429} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.239 seconds (JVM running for 4.744)
+11:17:56.502} [main] WARN  com.ssa.ironyard.web.SpringStarter - Zucchini is fatal
+11:17:56.503} [main] WARN  com.ssa.ironyard.web.SpringStarter - Zuchini is fatal
+11:17:56.904} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 4796 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+11:17:56.904} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+11:17:56.904} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+11:17:58.828} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.238 seconds (JVM running for 4.726)
+12:45:50.516} [main] WARN  com.ssa.ironyard.web.SpringStarter - Zucchini is fatal
+12:45:50.517} [main] WARN  com.ssa.ironyard.web.SpringStarter - Zuchini is fatal
+12:45:50.898} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 5844 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+12:45:50.898} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+12:45:50.898} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+12:45:52.713} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.1 seconds (JVM running for 4.593)
+12:58:55.111} [main] WARN  com.ssa.ironyard.web.SpringStarter - Zucchini is fatal
+12:58:55.112} [main] WARN  com.ssa.ironyard.web.SpringStarter - Zuchini is fatal
+12:58:55.627} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 2060 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+12:58:55.628} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+12:58:55.628} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+12:58:57.551} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.319 seconds (JVM running for 5.579)
+13:33:12.085} [main] WARN  com.ssa.ironyard.web.SpringStarter - Zucchini is fatal
+13:33:12.086} [main] WARN  com.ssa.ironyard.web.SpringStarter - Zuchini is fatal
+13:33:12.498} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 3776 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+13:33:12.499} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:33:12.499} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+13:34:50.202} [main] WARN  com.ssa.ironyard.web.SpringStarter - Zucchini is fatal
+13:34:50.203} [main] WARN  com.ssa.ironyard.web.SpringStarter - Zuchini is fatal
+13:34:50.588} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 1656 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+13:34:50.588} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:34:50.588} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+13:36:10.142} [main] WARN  com.ssa.ironyard.web.SpringStarter - Zucchini is fatal
+13:36:10.143} [main] WARN  com.ssa.ironyard.web.SpringStarter - Zuchini is fatal
+13:36:10.553} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 2932 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+13:36:10.554} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:36:10.554} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+14:00:25.570} [main] WARN  com.ssa.ironyard.web.SpringStarter - Zucchini is fatal
+14:00:25.571} [main] WARN  com.ssa.ironyard.web.SpringStarter - Zuchini is fatal
+14:00:25.949} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 5536 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:00:25.949} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:00:25.949} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+14:02:04.702} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 6320 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:02:04.704} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:02:04.704} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+14:03:22.750} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 1140 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:03:22.751} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:03:22.751} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+14:04:33.947} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 2036 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:04:33.948} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:04:33.949} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+14:04:59.628} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 1688 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:04:59.629} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:04:59.630} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+14:08:25.240} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 6348 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:08:25.242} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:08:25.242} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+14:09:14.951} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 5452 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:09:14.952} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:09:14.952} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+14:11:00.038} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 6964 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:11:00.039} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:11:00.039} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+14:11:06.132} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 5548 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:11:06.133} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:11:06.133} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+14:12:17.850} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 3324 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:12:17.851} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:12:17.851} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+14:12:39.889} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 6856 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:12:39.890} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:12:39.890} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+14:40:18.349} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 6828 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:40:18.350} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:40:18.350} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+14:40:53.250} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 4872 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:40:53.251} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:40:53.251} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+14:41:23.852} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 5720 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:41:23.854} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:41:23.854} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+14:44:10.492} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 1300 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:44:10.493} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:44:10.493} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+14:44:12.549} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.396 seconds (JVM running for 2.957)
+14:46:29.733} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 5444 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:46:29.734} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:46:29.735} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+14:46:29.742} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 3652 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:46:29.743} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:46:29.743} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+14:46:32.944} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 3.588 seconds (JVM running for 4.186)
+14:47:14.408} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 5524 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:47:14.410} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:47:14.410} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+14:47:16.196} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.091 seconds (JVM running for 5.124)
+14:53:57.530} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 5500 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:53:57.532} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:53:57.532} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+14:53:59.355} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.154 seconds (JVM running for 5.128)
+14:54:55.035} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 2000 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:54:55.036} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:54:55.036} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+14:54:56.842} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.112 seconds (JVM running for 5.074)
+14:55:35.086} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 6644 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:55:35.087} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:55:35.087} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+14:57:04.691} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 6192 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:57:04.692} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:57:04.692} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+14:57:06.712} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.336 seconds (JVM running for 2.856)
+14:57:24.903} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 3572 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:57:24.904} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:57:24.904} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+14:57:26.725} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.148 seconds (JVM running for 5.104)
+14:57:41.550} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 6552 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:57:41.552} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:57:41.552} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+14:57:43.468} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.261 seconds (JVM running for 5.275)
+14:58:17.451} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 5720 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:58:17.452} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:58:17.452} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+14:58:19.281} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.127 seconds (JVM running for 5.131)
+15:03:17.878} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 4192 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:03:17.879} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:03:17.879} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+15:03:43.679} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 6932 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:03:43.681} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:03:43.681} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+15:03:45.849} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.497 seconds (JVM running for 5.511)
+15:07:11.164} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 6940 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:07:11.165} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:07:11.165} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+15:07:13.412} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.549 seconds (JVM running for 5.741)
+15:08:39.968} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 732 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:08:39.969} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:08:39.969} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+15:09:22.858} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 6172 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:09:22.860} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:09:22.860} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+15:09:54.983} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 2428 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:09:54.984} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:09:54.984} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+15:09:57.283} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.623 seconds (JVM running for 5.675)
+15:12:09.061} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 5880 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:12:09.062} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:12:09.062} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+15:12:11.264} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.55 seconds (JVM running for 5.603)
+15:14:33.422} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 308 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:14:33.423} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:14:33.424} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+15:14:35.646} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.516 seconds (JVM running for 5.609)
+15:17:08.148} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 5268 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:17:08.149} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:17:08.149} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+15:17:10.425} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.592 seconds (JVM running for 5.662)
+15:18:17.029} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 6708 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:18:17.030} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:18:17.030} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+15:18:19.341} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.63 seconds (JVM running for 5.706)
+15:22:17.319} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 1528 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:22:17.320} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:22:17.320} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+15:22:19.830} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.855 seconds (JVM running for 5.892)
+15:26:50.518} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 2056 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:26:50.519} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:26:50.519} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+15:26:53.038} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.847 seconds (JVM running for 6.006)
+15:28:36.043} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 5488 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:28:36.044} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:28:36.044} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+15:28:38.332} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.601 seconds (JVM running for 5.726)
+15:29:28.062} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 6988 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:29:28.063} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:29:28.063} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+15:29:30.262} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.498 seconds (JVM running for 5.541)
+15:30:31.890} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 5440 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:30:31.891} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:30:31.891} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+15:30:34.074} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.501 seconds (JVM running for 5.522)
+15:32:23.541} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 4256 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:32:23.542} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:32:23.542} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+15:32:25.811} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.597 seconds (JVM running for 5.674)
+15:34:13.764} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 5684 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:34:13.765} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:34:13.765} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+15:34:30.595} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 4284 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:34:30.596} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:34:30.596} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+15:34:32.774} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.505 seconds (JVM running for 3.048)
+15:35:08.907} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 6780 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:35:08.908} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:35:08.908} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+15:35:18.513} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 7036 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:35:18.514} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:35:18.514} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+15:35:43.412} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 2056 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:35:43.413} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:35:43.414} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+15:35:45.629} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.54 seconds (JVM running for 3.063)
+15:36:51.097} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 5696 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:36:51.098} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:36:51.098} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+15:37:03.639} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 2844 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:37:03.640} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:37:03.640} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+15:37:05.852} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.534 seconds (JVM running for 3.058)
+15:38:39.622} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 3464 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:38:39.623} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:38:39.623} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+15:38:41.931} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.626 seconds (JVM running for 3.152)
+15:41:05.616} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 400 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:41:05.617} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:41:05.617} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+15:44:18.345} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 2632 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:44:18.346} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:44:18.346} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+15:46:19.005} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 5500 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:46:19.006} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:46:19.007} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+15:46:21.265} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.582 seconds (JVM running for 5.552)
+15:57:54.305} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 2688 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:57:54.306} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:57:54.306} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+15:57:56.622} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.664 seconds (JVM running for 3.21)
+15:58:12.716} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 4512 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:58:12.717} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:58:12.718} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+15:58:32.306} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 5304 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:58:32.307} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:58:32.307} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+15:58:34.638} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.655 seconds (JVM running for 3.186)
+15:58:56.299} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 6292 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:58:56.300} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:58:56.300} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+15:58:58.636} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.666 seconds (JVM running for 3.199)
+16:06:08.600} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 1780 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+16:06:08.601} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+16:06:08.601} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+16:06:10.883} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.591 seconds (JVM running for 5.719)
+16:15:45.828} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 6944 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+16:15:45.829} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+16:15:45.830} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+16:15:48.022} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.485 seconds (JVM running for 5.531)
+16:17:24.404} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 4960 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+16:17:24.405} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+16:17:24.406} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+16:17:26.745} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.698 seconds (JVM running for 5.81)
+16:20:16.201} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 4192 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+16:20:16.202} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+16:20:16.202} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+16:20:18.446} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.564 seconds (JVM running for 5.573)
+16:21:35.906} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 6284 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+16:21:35.907} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+16:21:35.907} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+16:22:59.850} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 3048 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+16:22:59.851} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+16:22:59.851} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+16:23:02.023} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.471 seconds (JVM running for 5.533)
+16:25:10.385} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 6856 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+16:25:10.386} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+16:25:10.386} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+16:25:12.652} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.591 seconds (JVM running for 3.125)
+16:25:26.209} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 5580 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+16:25:26.210} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+16:25:26.211} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+16:25:28.426} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.536 seconds (JVM running for 3.055)
+16:38:52.110} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 2500 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+16:38:52.111} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+16:38:52.111} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+16:39:22.573} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 540 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+16:39:22.574} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+16:39:22.574} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+16:39:24.490} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.207 seconds (JVM running for 5.219)
+16:47:03.824} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 6096 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+16:47:03.825} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+16:47:03.826} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+16:48:10.751} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 4284 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+16:48:10.753} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+16:48:10.753} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+16:49:35.525} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 6512 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+16:49:35.526} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+16:49:35.526} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+16:49:37.350} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.085 seconds (JVM running for 4.38)
+16:51:06.180} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 412 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+16:51:06.182} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+16:51:06.182} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+16:51:08.062} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.171 seconds (JVM running for 4.442)
+16:55:50.852} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 6468 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+16:55:50.853} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+16:55:50.853} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+16:55:52.074} [main] DEBUG com.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+16:55:52.629} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.049 seconds (JVM running for 4.367)
+17:01:18.266} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 1628 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+17:01:18.267} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+17:01:18.268} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+17:01:19.527} [main] DEBUG com.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+17:01:20.051} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.059 seconds (JVM running for 4.314)
+17:07:34.607} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 1548 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+17:07:34.608} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+17:07:34.608} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+17:07:36.540} [main] DEBUG com.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+17:07:36.767} [main] DEBUG com.ssa.ironyard.web.TrieLoadingService - Try has quiet in it
+17:07:37.327} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 3.157 seconds (JVM running for 7.019)
+08:34:28.152} [main] INFO  com.ssa.ironyard.web.SpringStarter - Starting SpringStarter on PC45 with PID 7156 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+08:34:28.153} [main] DEBUG com.ssa.ironyard.web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+08:34:28.153} [main] INFO  com.ssa.ironyard.web.SpringStarter - No active profile set, falling back to default profiles: default
+08:34:29.396} [main] DEBUG com.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+08:34:29.934} [main] INFO  com.ssa.ironyard.web.SpringStarter - Started SpringStarter in 2.044 seconds (JVM running for 4.296)
+08:36:57.979} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 2076 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+08:36:57.980} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+08:36:57.980} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+08:36:59.427} [main] DEBUG com.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+08:37:00.057} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.437 seconds (JVM running for 4.879)
+08:48:22.790} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 2972 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+08:48:22.791} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+08:48:22.791} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+08:48:24.094} [main] DEBUG com.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+08:48:24.712} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.203 seconds (JVM running for 4.409)
+08:56:42.516} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6536 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+08:56:42.517} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+08:56:42.517} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+08:56:43.956} [main] DEBUG com.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+08:56:44.637} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.393 seconds (JVM running for 4.766)
+10:31:50.825} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6524 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+10:31:50.825} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+10:31:50.825} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+10:31:52.588} [main] DEBUG com.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+10:31:53.306} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.855 seconds (JVM running for 6.576)
+10:41:42.996} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 3892 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+10:41:42.996} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+10:41:42.996} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+10:41:44.805} [main] DEBUG com.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+10:41:45.606} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 3.063 seconds (JVM running for 6.859)
+11:05:17.678} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 2780 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+11:05:17.681} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+11:05:17.681} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+11:09:31.286} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 2524 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+11:09:31.288} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+11:09:31.288} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+11:11:04.724} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6464 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+11:11:04.724} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+11:11:04.726} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+11:11:06.826} [main] DEBUG com.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+11:11:07.589} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 3.278 seconds (JVM running for 7.201)
+13:31:31.405} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6596 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+13:31:31.405} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:31:31.405} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:32:03.195} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 4296 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+13:32:03.195} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:32:03.195} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:32:56.641} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6196 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+13:32:56.657} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:32:56.657} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:34:03.103} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6928 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+13:34:03.103} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:34:03.103} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:34:04.366} [main] DEBUG com.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:34:04.959} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.122 seconds (JVM running for 5.122)
+13:35:24.787} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6392 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+13:35:24.787} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:35:24.787} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:35:26.206} [main] DEBUG com.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:35:26.784} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.293 seconds (JVM running for 5.257)
+13:35:55.498} [http-nio-8080-exec-3] DEBUG com.ssa.ironyard.web.PropertyRestController - Columbia
+13:36:18.497} [http-nio-8080-exec-4] DEBUG com.ssa.ironyard.web.PropertyRestController - Columbia
+13:36:29.215} [http-nio-8080-exec-6] DEBUG com.ssa.ironyard.web.PropertyRestController - Columbia
+13:36:31.802} [http-nio-8080-exec-7] DEBUG com.ssa.ironyard.web.PropertyRestController - Hell
+13:42:49.612} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 3024 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+13:42:49.612} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:42:49.612} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:42:51.016} [main] DEBUG com.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:42:51.578} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.247 seconds (JVM running for 5.247)
+13:43:13.009} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 5716 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+13:43:13.009} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:43:13.009} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:43:14.382} [main] DEBUG com.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:43:14.928} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.231 seconds (JVM running for 5.234)
+13:45:17.370} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 3584 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+13:45:17.370} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:45:17.370} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:45:18.618} [main] DEBUG com.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:45:19.244} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.186 seconds (JVM running for 5.197)
+13:45:54.893} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6156 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+13:45:54.894} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:45:54.895} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:45:56.230} [main] DEBUG com.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:45:56.860} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.249 seconds (JVM running for 5.163)
+13:45:58.121} [http-nio-8080-exec-1] DEBUG com.ssa.ironyard.web.PropertyRestController - Hell
+13:53:22.995} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 5764 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+13:53:22.996} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:53:22.997} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:53:24.433} [main] DEBUG com.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:53:25.106} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.449 seconds (JVM running for 5.6)
+13:53:32.126} [http-nio-8080-exec-4] DEBUG com.ssa.ironyard.web.PropertyRestController - Hell
+13:53:33.241} [http-nio-8080-exec-5] DEBUG com.ssa.ironyard.web.PropertyRestController - Hell
+13:55:49.262} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6536 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+13:55:49.264} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:55:49.264} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:55:50.656} [main] DEBUG com.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:55:51.298} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.352 seconds (JVM running for 5.549)
+13:55:53.311} [http-nio-8080-exec-1] DEBUG com.ssa.ironyard.web.PropertyRestController - Hell
+13:56:12.677} [http-nio-8080-exec-4] DEBUG com.ssa.ironyard.web.PropertyRestController - Hell
+13:58:02.908} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 4724 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+13:58:02.910} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:58:02.910} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:58:04.247} [main] DEBUG com.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:58:04.863} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.239 seconds (JVM running for 5.452)
+13:59:23.629} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 5136 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+13:59:23.840} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:59:23.841} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:59:25.161} [main] DEBUG com.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:59:25.802} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.496 seconds (JVM running for 5.615)
+14:09:40.339} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 4276 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:09:40.341} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:09:40.341} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:09:41.796} [main] DEBUG com.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:09:42.455} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.475 seconds (JVM running for 5.732)
+14:10:05.991} [http-nio-8080-exec-3] DEBUG com.ssa.ironyard.web.PropertyRestController - Columbia
+14:30:45.774} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 4976 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:30:45.776} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:30:45.776} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:30:47.258} [main] DEBUG com.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:30:47.910} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.49 seconds (JVM running for 5.665)
+14:34:21.102} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 2604 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:34:21.102} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:34:21.102} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:34:22.368} [main] DEBUG com.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:34:23.054} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.295 seconds (JVM running for 5.229)
+14:38:24.889} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 5524 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:38:24.889} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:38:24.889} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:39:23.703} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6908 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:39:23.703} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:39:23.719} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:39:25.203} [main] DEBUG com.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:39:25.764} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.357 seconds (JVM running for 5.495)
+14:39:27.200} [http-nio-8080-exec-1] DEBUG com.ssa.ironyard.web.PropertyRestController - Columbia
+14:39:37.591} [http-nio-8080-exec-2] DEBUG com.ssa.ironyard.web.PropertyRestController - Columbia
+14:54:44.639} [http-nio-8080-exec-5] DEBUG com.ssa.ironyard.web.PropertyRestController - Hell
+14:54:53.157} [http-nio-8080-exec-6] DEBUG com.ssa.ironyard.web.PropertyRestController - Columbia
+14:55:23.583} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6512 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:55:23.584} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:55:23.584} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:55:24.873} [main] DEBUG com.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:55:25.453} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.196 seconds (JVM running for 5.276)
+14:57:18.520} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 4904 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:57:18.521} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:57:18.521} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:57:20.148} [main] DEBUG com.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:57:51.291} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 7108 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:57:51.292} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:57:51.292} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:57:52.605} [main] DEBUG com.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:57:53.220} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.222 seconds (JVM running for 5.362)
+14:57:54.387} [http-nio-8080-exec-1] DEBUG com.ssa.ironyard.web.PropertyRestController - Columbia
+14:58:53.290} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 5976 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:58:53.291} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:58:53.292} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:58:54.683} [main] DEBUG com.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:58:55.319} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.349 seconds (JVM running for 5.536)
+14:58:59.112} [http-nio-8080-exec-1] DEBUG com.ssa.ironyard.web.PropertyRestController - Hell
+14:59:10.406} [http-nio-8080-exec-2] DEBUG com.ssa.ironyard.web.PropertyRestController - Hell
+14:59:22.405} [http-nio-8080-exec-4] DEBUG com.ssa.ironyard.web.PropertyRestController - Hell
+14:59:29.475} [http-nio-8080-exec-5] DEBUG com.ssa.ironyard.web.PropertyRestController - Columbia
+15:00:23.031} [http-nio-8080-exec-6] DEBUG com.ssa.ironyard.web.PropertyRestController - Columbia
+15:00:31.318} [http-nio-8080-exec-7] DEBUG com.ssa.ironyard.web.PropertyRestController - Hell
+15:02:45.607} [http-nio-8080-exec-9] DEBUG com.ssa.ironyard.web.PropertyRestController - Columbia
+15:06:13.919} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 5916 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:06:13.920} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:06:13.920} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+15:06:15.462} [main] DEBUG com.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+15:06:16.139} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.557 seconds (JVM running for 5.775)
+15:06:24.991} [http-nio-8080-exec-1] DEBUG com.ssa.ironyard.web.PropertyRestController - Columbia
+15:06:30.932} [http-nio-8080-exec-2] DEBUG com.ssa.ironyard.web.PropertyRestController - Hell
+15:06:55.909} [http-nio-8080-exec-3] DEBUG com.ssa.ironyard.web.PropertyRestController - Hell
+15:07:00.835} [http-nio-8080-exec-4] DEBUG com.ssa.ironyard.web.PropertyRestController - Hell
+15:09:01.901} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6012 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:09:01.902} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:09:01.903} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+15:09:03.388} [main] DEBUG com.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+15:09:04.066} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.493 seconds (JVM running for 5.75)
+15:09:05.582} [http-nio-8080-exec-1] DEBUG com.ssa.ironyard.web.PropertyRestController - Hell
+15:09:18.034} [http-nio-8080-exec-3] DEBUG com.ssa.ironyard.web.PropertyRestController - Columbia
+15:09:27.006} [http-nio-8080-exec-4] DEBUG com.ssa.ironyard.web.PropertyRestController - Columbia
+15:11:39.283} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 3464 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:11:39.283} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:11:39.283} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+15:11:40.721} [main] DEBUG com.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+15:11:41.267} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.312 seconds (JVM running for 5.254)
+15:11:46.620} [http-nio-8080-exec-1] DEBUG com.ssa.ironyard.web.PropertyRestController - Columbia
+15:11:50.735} [http-nio-8080-exec-2] DEBUG com.ssa.ironyard.web.PropertyRestController - Columbia
+15:12:17.208} [http-nio-8080-exec-6] DEBUG com.ssa.ironyard.web.PropertyRestController - Columbia
+15:12:24.283} [http-nio-8080-exec-7] DEBUG com.ssa.ironyard.web.PropertyRestController - Columbia
+15:12:30.633} [http-nio-8080-exec-8] DEBUG com.ssa.ironyard.web.PropertyRestController - Columbia
+15:13:04.560} [http-nio-8080-exec-9] DEBUG com.ssa.ironyard.web.PropertyRestController - Hell
+15:13:40.153} [http-nio-8080-exec-4] DEBUG com.ssa.ironyard.web.PropertyRestController - Hell
+15:14:30.429} [http-nio-8080-exec-5] DEBUG com.ssa.ironyard.web.PropertyRestController - Columbia
+15:14:42.164} [http-nio-8080-exec-6] DEBUG com.ssa.ironyard.web.PropertyRestController - Columbia
+15:16:56.292} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 5836 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:16:56.308} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:16:56.308} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+15:16:57.509} [main] DEBUG com.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+15:16:58.118} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.231 seconds (JVM running for 5.286)
+15:18:10.065} [http-nio-8080-exec-1] DEBUG com.ssa.ironyard.web.PropertyRestController - com.ssa.ironyard.model.Property@2002ce3f
+15:51:38.662} [http-nio-8080-exec-3] DEBUG com.ssa.ironyard.web.PropertyRestController - com.ssa.ironyard.model.Property@130384da
+15:59:07.731} [http-nio-8080-exec-5] DEBUG com.ssa.ironyard.web.PropertyRestController - Columbia
+16:14:19.399} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 804 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+16:14:19.401} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+16:14:19.401} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+16:14:20.949} [main] DEBUG com.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+16:14:21.654} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.644 seconds (JVM running for 6.035)
+09:11:09.480} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 3500 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+09:11:09.480} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+09:11:09.480} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+09:11:10.973} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+09:11:11.581} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.46 seconds (JVM running for 5.571)
+10:52:25.408} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6088 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+10:52:25.408} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+10:52:25.408} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+10:52:26.999} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+10:52:27.592} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.559 seconds (JVM running for 5.684)
+10:53:18.550} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 5968 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+10:53:18.551} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+10:53:18.552} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+10:53:19.914} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+10:53:20.498} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.424 seconds (JVM running for 5.498)
+10:55:42.265} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6356 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+10:55:42.265} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+10:55:42.265} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+10:55:43.747} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+10:55:44.325} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.387 seconds (JVM running for 5.523)
+10:57:18.127} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 2056 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+10:57:18.128} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+10:57:18.128} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+10:57:19.558} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+10:57:20.135} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.34 seconds (JVM running for 5.286)
+10:59:13.815} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 2656 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+10:59:13.815} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+10:59:13.815} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+10:59:32.219} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 5836 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+10:59:32.219} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+10:59:32.219} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+11:00:44.195} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 4276 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+11:00:44.210} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+11:00:44.210} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+11:00:45.614} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+11:00:46.238} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.34 seconds (JVM running for 5.496)
+11:03:45.193} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 4480 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+11:03:45.193} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+11:03:45.193} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+11:03:46.800} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+11:03:47.393} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.605 seconds (JVM running for 5.592)
+11:04:57.853} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6120 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+11:04:57.854} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+11:04:57.854} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+11:04:59.417} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+11:05:00.069} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.568 seconds (JVM running for 5.619)
+11:08:05.198} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6536 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+11:08:05.198} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+11:08:05.198} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+11:08:06.698} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+11:08:07.384} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.513 seconds (JVM running for 5.64)
+11:10:21.851} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6600 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+11:10:21.851} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+11:10:21.851} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+11:10:23.302} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+11:10:23.973} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.434 seconds (JVM running for 5.548)
+11:20:52.017} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6520 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+11:20:52.017} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+11:20:52.017} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+11:20:53.390} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+11:20:53.967} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.48 seconds (JVM running for 5.66)
+11:22:06.214} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 5208 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+11:22:06.214} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+11:22:06.214} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+11:22:07.603} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+11:22:08.242} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.496 seconds (JVM running for 5.718)
+11:28:06.619} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6264 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+11:28:06.619} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+11:28:06.619} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+11:28:08.241} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+11:28:08.865} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.574 seconds (JVM running for 5.666)
+12:35:18.041} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 3572 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+12:35:18.042} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+12:35:18.043} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+12:35:19.462} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+12:35:20.131} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.399 seconds (JVM running for 5.583)
+12:42:05.895} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 5348 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+12:42:05.896} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+12:42:05.897} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+12:42:07.189} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+12:42:07.773} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.339 seconds (JVM running for 5.595)
+12:48:03.590} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 5396 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+12:48:03.591} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+12:48:03.592} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+12:48:04.807} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+12:48:05.348} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.232 seconds (JVM running for 5.417)
+12:54:28.041} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 4756 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+12:54:28.041} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+12:54:28.041} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+12:54:29.475} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+12:54:30.090} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.39 seconds (JVM running for 5.566)
+12:55:07.650} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6104 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+12:55:07.651} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+12:55:07.651} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+12:55:09.058} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+12:55:09.708} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.375 seconds (JVM running for 5.588)
+13:12:32.247} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 4700 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+13:12:32.249} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:12:32.249} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:12:33.621} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:12:34.288} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.385 seconds (JVM running for 5.517)
+13:13:18.844} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6344 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+13:13:18.844} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:13:18.844} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:13:20.285} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:13:20.912} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.367 seconds (JVM running for 5.538)
+13:19:47.140} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 7104 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+13:19:47.141} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:19:47.141} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:19:48.441} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:19:49.094} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.256 seconds (JVM running for 5.391)
+13:44:41.326} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 3372 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+13:44:41.455} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:44:41.455} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:44:42.697} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:45:41.455} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 1400 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+13:45:41.581} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:45:41.581} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:45:42.826} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:46:13.502} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6396 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+13:46:13.504} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:46:13.504} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:46:13.506} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 5844 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+13:46:13.506} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:46:13.506} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:46:14.098} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6232 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+13:46:14.100} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:46:14.100} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:46:17.596} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:46:17.983} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:46:18.441} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:46:43.646} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6812 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+13:46:43.647} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:46:43.647} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:46:45.268} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:46:45.866} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.549 seconds (JVM running for 3.159)
+13:47:18.410} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6972 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+13:47:18.411} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:47:18.411} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:47:20.054} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:47:20.626} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.526 seconds (JVM running for 3.054)
+13:47:38.971} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 5464 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+13:47:38.972} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:47:38.972} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:47:40.346} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:47:40.974} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.314 seconds (JVM running for 5.576)
+13:53:25.146} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6220 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+13:53:25.146} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:53:25.146} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:53:26.425} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:53:27.065} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.215 seconds (JVM running for 5.298)
+13:54:51.138} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6304 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+13:54:51.139} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:54:51.139} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:54:52.380} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:54:52.952} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.258 seconds (JVM running for 5.178)
+14:11:22.312} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 4512 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:11:22.313} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:11:22.313} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:11:23.763} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:11:24.367} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.396 seconds (JVM running for 5.646)
+14:14:12.182} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 5624 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:14:12.275} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:14:12.275} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:14:13.590} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:14:14.215} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.381 seconds (JVM running for 5.63)
+14:19:17.567} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6524 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:19:17.567} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:19:17.567} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:19:19.003} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:19:19.711} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.465 seconds (JVM running for 5.691)
+14:25:09.866} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 2856 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:25:09.866} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:25:09.866} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:25:11.244} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:25:11.970} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.395 seconds (JVM running for 5.679)
+14:26:42.346} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 4320 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:26:42.348} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:26:42.348} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:26:43.508} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:26:44.068} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.185 seconds (JVM running for 5.184)
+14:27:40.114} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6208 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:27:40.115} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:27:40.115} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:27:41.676} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:27:42.222} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.43 seconds (JVM running for 2.975)
+14:32:19.801} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6576 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:32:19.801} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:32:19.801} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:32:21.174} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:32:21.720} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.215 seconds (JVM running for 5.231)
+14:34:00.812} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 3652 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:34:00.813} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:34:00.814} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:34:02.170} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:34:02.774} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.244 seconds (JVM running for 5.204)
+14:36:47.322} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 4460 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:36:47.338} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:36:47.339} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:36:48.865} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:36:49.566} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.543 seconds (JVM running for 5.827)
+14:39:27.109} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6036 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:39:27.110} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:39:27.111} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:39:28.579} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:39:29.165} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.347 seconds (JVM running for 5.33)
+14:48:17.627} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6208 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:48:17.627} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:48:17.643} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:48:18.953} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:48:19.593} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.247 seconds (JVM running for 5.37)
+14:54:37.836} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 2620 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:54:37.836} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:54:37.836} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:54:51.918} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 2916 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+14:54:51.918} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:54:51.918} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:54:53.338} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:54:53.915} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.293 seconds (JVM running for 5.349)
+15:10:17.935} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 7008 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:10:17.935} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:10:17.935} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+15:10:19.230} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+15:10:19.776} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.137 seconds (JVM running for 5.289)
+15:14:21.115} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 3808 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:14:21.115} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:14:21.115} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+15:14:22.425} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+15:14:22.987} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.168 seconds (JVM running for 5.19)
+15:20:32.746} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6496 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:20:32.746} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:20:32.746} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+15:20:34.241} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+15:20:34.830} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.421 seconds (JVM running for 5.524)
+15:24:19.624} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 1368 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:24:19.626} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:24:19.626} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+15:24:21.074} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+15:24:21.729} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.434 seconds (JVM running for 5.557)
+15:58:16.540} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 2096 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+15:58:16.541} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:58:16.541} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+15:58:17.865} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+15:58:18.425} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.196 seconds (JVM running for 5.333)
+16:00:12.617} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 248 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+16:00:12.619} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+16:00:12.619} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+16:00:14.071} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+16:00:14.639} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.349 seconds (JVM running for 5.523)
+16:00:30.357} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6000 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+16:00:30.358} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+16:00:30.358} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+16:00:31.818} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+16:00:32.403} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.356 seconds (JVM running for 5.46)
+16:01:00.068} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 3848 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+16:01:00.069} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+16:01:00.069} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+16:01:01.394} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+16:01:02.103} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.345 seconds (JVM running for 5.602)
