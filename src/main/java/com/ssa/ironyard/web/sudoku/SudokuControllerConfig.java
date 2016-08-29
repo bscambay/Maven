@@ -25,7 +25,7 @@ public class SudokuControllerConfig {
 
         File gameFile = new WebFileFactory("easy-1.txt").getInstance();
 
-        LOGGER.debug("Got property file {}", gameFile.toURI());
+        LOGGER.debug("Got sudoku file {}", gameFile.toURI());
 
         BufferedReader reader = null;
 
@@ -34,8 +34,12 @@ public class SudokuControllerConfig {
 
             String line;
             int i = 0;
+            
             while (null != (line = reader.readLine())) {
-                games.put(i, new Board(line));
+                games.put(i, new Board(line.trim())); 
+                
+                LOGGER.debug("\n i = " + i);
+                LOGGER.debug("\n i = " + games.get(i));
                 i++;
             }
         } catch (IOException iex) {

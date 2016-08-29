@@ -21,18 +21,29 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.servlet.View;
+import org.springframework.web.servlet.view.InternalResourceView;
 
 import com.ssa.ironyard.web.trie.Text9Trie;
 
 @RestController
+@RequestMapping("/sudoku")
 public class SudokuRestController {
     @Autowired
     @Qualifier("default-games")
     Map<Integer, Board> games;
 
-    @RequestMapping(produces = "application/json", value = "/sudoku/{difficulty}", method = RequestMethod.GET)
+    @RequestMapping(value = "")
+    public View home() {
+        return new InternalResourceView("home-sudoku.html"); // BINGO - although
+                                                             // could just use
+                                                             // string probably
+    }
+
+    @RequestMapping(produces = "application/json", value = "/{difficulty}", method = RequestMethod.GET)
     @ResponseBody
     public ResponseEntity<Map<String, String>> start(@PathVariable String difficulty) throws IllegalArgumentException {
 
@@ -40,14 +51,22 @@ public class SudokuRestController {
 
         if (difficulty.equals("easy")) {
             Map<String, String> easyMap = new HashMap<>();
-            easyMap.put("intial", games.get(0).getIntialState());
+            easyMap.put("initial", games.get(0).getIntialState());
             easyMap.put("gameId", "0");
             return ResponseEntity.ok().body(easyMap);
         }
 
         if (difficulty.equals("medium")) {
             Map<String, String> easyMap = new HashMap<>();
-            easyMap.put("game", games.get(1).getIntialState());
+            easyMap.put("initial", games.get(1).getIntialState());
+            easyMap.put("gameId", "1");
+            return ResponseEntity.ok().body(easyMap);
+
+        }
+        if (difficulty.equals("hard")) {
+            Map<String, String> easyMap = new HashMap<>();
+            easyMap.put("initial", games.get(2).getIntialState());
+            easyMap.put("gameId", "2");
             return ResponseEntity.ok().body(easyMap);
 
         }
@@ -57,24 +76,23 @@ public class SudokuRestController {
 
     }
 
-    @RequestMapping("/sudoku/{gameID}")
+    @RequestMapping(value = "/{gameId}", params = "solution")
     @ResponseBody
-    public ResponseEntity<Map<String, List<String>>> gameState(HttpSession put, HttpServletRequest request,
-            @PathVariable String gameID) {
+    public ResponseEntity<Map<String, List<String>>> gameState(HttpSession session, @PathVariable String gameId, @RequestParam String solution)
+           {
         ResponseEntity.status(HttpStatus.CREATED);
         Map<String, List<String>> easyMap = new HashMap<>();
+        String current = solution;
+        if (!Strings.isEmpty(current)) {
 
-        String current = request.getParameter("solution");
-        if (!Strings.isEmpty(request.getParameter("solution"))) {
-
-            games.get(0).solveBoard();
-            if ((games.get(0)).checkBoard(current).size() == 0) {
-                easyMap.put("errors", games.get(0).checkBoard(current));
-                easyMap.put("game", Arrays.asList(gameID));
+            games.get(gameId).solveBoard();
+            if ((games.get(gameId)).checkBoard(current).size() == 0) {
+                easyMap.put("errors", games.get(gameId).checkBoard(current));
+                easyMap.put("game", Arrays.asList(gameId));
                 return ResponseEntity.ok().body(easyMap);
             }
-            easyMap.put("errors", games.get(0).checkBoard(current));
-            easyMap.put("game", Arrays.asList(gameID));
+            easyMap.put("errors", games.get(gameId).checkBoard(current));
+            easyMap.put("game", Arrays.asList(gameId));
             return ResponseEntity.ok().body(easyMap);
 
         }

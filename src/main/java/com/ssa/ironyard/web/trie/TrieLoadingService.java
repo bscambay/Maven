@@ -52,7 +52,6 @@ public class TrieLoadingService {
                 try {
                     reader.close();
                 } catch (IOException e) {
-                    // TODO Auto-generated catch block
                     e.printStackTrace();
                 }
         }
