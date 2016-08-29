@@ -20,8 +20,8 @@ public class SudokuControllerConfig {
     static final Logger LOGGER = LogManager.getLogger(SudokuControllerConfig.class);
 
     @Bean(name = "default-games")
-    public Map<Integer, Board> defaults() throws URISyntaxException, IOException {
-        Map<Integer, Board> games = new HashMap<>();
+    public Map<String, Board> defaults() throws URISyntaxException, IOException {
+        Map<String, Board> games = new HashMap<>();
 
         File gameFile = new WebFileFactory("easy-1.txt").getInstance();
 
@@ -36,7 +36,7 @@ public class SudokuControllerConfig {
             int i = 0;
             
             while (null != (line = reader.readLine())) {
-                games.put(i, new Board(line.trim())); 
+                games.put(String.valueOf(i), new Board(line.trim())); 
                 
                 LOGGER.debug("\n i = " + i);
                 LOGGER.debug("\n i = " + games.get(i));

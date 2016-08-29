@@ -170,3 +170,78 @@
  i = com.ssa.ironyard.web.sudoku.Board@4480a3e0
 10:16:10.194} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\easy-1.txt, exists?true
 10:16:10.750} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.494 seconds (JVM running for 6.022)
+10:25:00.954} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 2428 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+10:25:00.960} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+10:25:00.960} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+10:25:02.544} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - Got sudoku file file:/C:/Users/admin/Documents/Java%20Projects/Maven/my-app/target/classes/easy-1.txt
+10:25:02.546} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - 
+ i = 0
+10:25:02.547} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - 
+ i = com.ssa.ironyard.web.sudoku.Board@f6754f9
+10:25:02.547} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - 
+ i = 1
+10:25:02.547} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - 
+ i = com.ssa.ironyard.web.sudoku.Board@1ff28e3b
+10:25:02.547} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - 
+ i = 2
+10:25:02.547} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - 
+ i = com.ssa.ironyard.web.sudoku.Board@4480a3e0
+10:25:02.564} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\easy-1.txt, exists?true
+10:25:03.104} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.691 seconds (JVM running for 6.344)
+10:27:25.617} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 3424 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+10:27:25.618} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+10:27:25.618} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+10:27:40.269} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6832 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+10:27:40.270} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+10:27:40.271} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+10:27:41.786} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - Got sudoku file file:/C:/Users/admin/Documents/Java%20Projects/Maven/my-app/target/classes/easy-1.txt
+10:27:41.788} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - 
+ i = 0
+10:27:41.789} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - 
+ i = com.ssa.ironyard.web.sudoku.Board@d8f8620
+10:27:41.789} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - 
+ i = 1
+10:27:41.789} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - 
+ i = com.ssa.ironyard.web.sudoku.Board@272ad638
+10:27:41.789} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - 
+ i = 2
+10:27:41.789} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - 
+ i = com.ssa.ironyard.web.sudoku.Board@78d64e0c
+10:27:41.807} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\easy-1.txt, exists?true
+10:27:42.358} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.677 seconds (JVM running for 6.169)
+10:33:32.931} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 3500 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+10:33:33.118} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+10:33:33.118} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+10:33:34.592} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - Got sudoku file file:/C:/Users/admin/Documents/Java%20Projects/Maven/my-app/target/classes/easy-1.txt
+10:33:34.595} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - 
+ i = 0
+10:33:34.595} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - 
+ i = com.ssa.ironyard.web.sudoku.Board@e15c467
+10:33:34.595} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - 
+ i = 1
+10:33:34.595} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - 
+ i = com.ssa.ironyard.web.sudoku.Board@1aeba0b1
+10:33:34.595} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - 
+ i = 2
+10:33:34.595} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - 
+ i = com.ssa.ironyard.web.sudoku.Board@24f9975
+10:33:34.608} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\easy-1.txt, exists?true
+10:33:35.103} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.521 seconds (JVM running for 6.138)
+10:36:16.130} [main] INFO  com.ssa.ironyard.SpringStarter - Starting SpringStarter on PC45 with PID 6856 (started by admin in C:\Users\admin\Documents\Java Projects\Maven\my-app)
+10:36:16.262} [main] DEBUG com.ssa.ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+10:36:16.262} [main] INFO  com.ssa.ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+10:36:17.743} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - Got sudoku file file:/C:/Users/admin/Documents/Java%20Projects/Maven/my-app/target/classes/easy-1.txt
+10:36:17.746} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - 
+ i = 0
+10:36:17.746} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - 
+ i = null
+10:36:17.746} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - 
+ i = 1
+10:36:17.746} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - 
+ i = null
+10:36:17.746} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - 
+ i = 2
+10:36:17.746} [main] DEBUG com.ssa.ironyard.web.sudoku.SudokuControllerConfig - 
+ i = null
+10:36:17.763} [main] DEBUG com.ssa.ironyard.web.trie.TrieLoadingService - file C:\Users\admin\Documents\Java Projects\Maven\my-app\target\classes\easy-1.txt, exists?true
+10:36:18.298} [main] INFO  com.ssa.ironyard.SpringStarter - Started SpringStarter in 2.582 seconds (JVM running for 6.072)

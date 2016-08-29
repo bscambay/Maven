@@ -34,8 +34,9 @@ import com.ssa.ironyard.web.trie.Text9Trie;
 public class SudokuRestController {
     @Autowired
     @Qualifier("default-games")
-    Map<Integer, Board> games;
+    Map<String, Board> games;
 
+ 
     @RequestMapping(value = "")
     public View home() {
         return new InternalResourceView("home-sudoku.html"); // BINGO - although
@@ -45,28 +46,28 @@ public class SudokuRestController {
 
     @RequestMapping(produces = "application/json", value = "/{difficulty}", method = RequestMethod.GET)
     @ResponseBody
-    public ResponseEntity<Map<String, String>> start(@PathVariable String difficulty) throws IllegalArgumentException {
+    public ResponseEntity<Map<String, String>> game(@PathVariable String difficulty) throws IllegalArgumentException {
 
         ResponseEntity.status(HttpStatus.CREATED);
 
         if (difficulty.equals("easy")) {
             Map<String, String> easyMap = new HashMap<>();
-            easyMap.put("initial", games.get(0).getIntialState());
-            easyMap.put("gameId", "0");
+            easyMap.put("initial", games.get("0").getIntialState());
+            easyMap.put("game", "0");
             return ResponseEntity.ok().body(easyMap);
         }
 
         if (difficulty.equals("medium")) {
             Map<String, String> easyMap = new HashMap<>();
-            easyMap.put("initial", games.get(1).getIntialState());
-            easyMap.put("gameId", "1");
+            easyMap.put("initial", games.get("1").getIntialState());
+            easyMap.put("game", "1");
             return ResponseEntity.ok().body(easyMap);
 
         }
         if (difficulty.equals("hard")) {
             Map<String, String> easyMap = new HashMap<>();
-            easyMap.put("initial", games.get(2).getIntialState());
-            easyMap.put("gameId", "2");
+            easyMap.put("initial", games.get("2").getIntialState());
+            easyMap.put("game", "2");
             return ResponseEntity.ok().body(easyMap);
 
         }
@@ -76,23 +77,23 @@ public class SudokuRestController {
 
     }
 
-    @RequestMapping(value = "/{gameId}", params = "solution")
+    @RequestMapping(value = "/{game}", params = "solution")
     @ResponseBody
-    public ResponseEntity<Map<String, List<String>>> gameState(HttpSession session, @PathVariable String gameId, @RequestParam String solution)
+    public ResponseEntity<Map<String, List<String>>> check(HttpSession session, @PathVariable String game, @RequestParam String solution)
            {
         ResponseEntity.status(HttpStatus.CREATED);
         Map<String, List<String>> easyMap = new HashMap<>();
         String current = solution;
         if (!Strings.isEmpty(current)) {
 
-            games.get(gameId).solveBoard();
-            if ((games.get(gameId)).checkBoard(current).size() == 0) {
-                easyMap.put("errors", games.get(gameId).checkBoard(current));
-                easyMap.put("game", Arrays.asList(gameId));
+            games.get(game).solveBoard();
+            if ((games.get(game)).checkBoard(current).size() == 0) {
+                easyMap.put("errors", games.get(game).checkBoard(current));
+                easyMap.put("game", Arrays.asList(game));
                 return ResponseEntity.ok().body(easyMap);
             }
-            easyMap.put("errors", games.get(gameId).checkBoard(current));
-            easyMap.put("game", Arrays.asList(gameId));
+            easyMap.put("errors", games.get(game).checkBoard(current));
+            easyMap.put("game", Arrays.asList(game));
             return ResponseEntity.ok().body(easyMap);
 
         }
